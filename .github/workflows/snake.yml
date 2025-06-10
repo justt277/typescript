@@ -16,6 +16,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+             snake_color: '#FFFFFF' 
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
