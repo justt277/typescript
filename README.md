@@ -29,10 +29,10 @@
 
 <p align="center">
   <!-- Light mode -->
-  <img src="https://github.com/justt277/justt277/blob/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+  <img src="https://github.com/justt277/typescript/blob/output/github-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
 
   <!-- Dark mode -->
-  <img src="https://github.com/justt277/justt277/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+  <img src="https://github.com/justt277/typescript/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
 </p>
 
 ---
